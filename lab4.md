@@ -16,26 +16,14 @@ I'm assuming its claim is the first sentence of the section, and I'd say I agree
 
 ## 6. Justification
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 7. Project and buisness model
 
 ## 8. RCOS Table
 
 Website | License Present | License 
 ---------|:----------|:-------
-hi | hi | hi 
+https://github.com/jeffreyceballos/3rs | No | N/A
+https://github.com/Anchor-Site/Anchor/blob/master/LICENSE.md | Yes | MIT
+https://github.com/angel-project/framework/blob/master/LICENSE | Yes | MIT
+https://github.com/Stashmatic/ARAS/blob/master/license | Yes | MIT
+https://github.com/SeanWaclawik/courseproject | Yes | MIT
