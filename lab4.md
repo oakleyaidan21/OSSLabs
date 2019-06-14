@@ -24,7 +24,7 @@ Link: https://github.com/barnesv17/Lab04-Licensing
 Website | License Present | License 
 ---------|:----------|:-------
 https://github.com/jeffreyceballos/3rs | No | N/A
-https://github.com/Anchor-Site/Anchor/blob/master/LICENSE.md | Yes | MIT
-https://github.com/angel-project/framework/blob/master/LICENSE | Yes | MIT
-https://github.com/Stashmatic/ARAS/blob/master/license | Yes | MIT
+https://github.com/Anchor-Site/Anchor/ | Yes | MIT
+https://github.com/angel-project/framework/ | Yes | MIT
+https://github.com/Stashmatic/ARAS/ | Yes | MIT
 https://github.com/SeanWaclawik/courseproject | Yes | MIT
