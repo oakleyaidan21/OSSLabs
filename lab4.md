@@ -17,6 +17,7 @@ I'm assuming its claim is the first sentence of the section, and I'd say I agree
 ## 6. Justification
 
 ## 7. Project and buisness model
+Link: https://github.com/barnesv17/Lab04-Licensing
 
 ## 8. RCOS Table
 
