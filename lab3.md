@@ -7,6 +7,7 @@ first expression: $\sqrt{1+2\sqrt{1+3\sqrt{1+4\sqrt{1+...}}}}$
 second expresssion: $\sqrt{2}^\sqrt{2}^\sqrt{2}^\sqrt{2}^(...)$
 
 Matrix: 
+
 `$\left[\begin{array}{cccc}
 
 1 & 1 & 1 & 1 \\
