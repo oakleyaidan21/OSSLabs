@@ -2,6 +2,7 @@
 
 ## Step 1 and 2
 
+tutorial.cxx:
 ```C++
 // A simple program that computes the square root of a number
 #include <cmath>
@@ -29,7 +30,7 @@ int main(int argc, char* argv[])
   return 0;
 }
 ```
-
+CMakelists.txt
 ```
 cmake_minimum_required(VERSION 3.3)
 project(Tutorial)
@@ -58,6 +59,7 @@ target_include_directories(Tutorial PUBLIC
 
 ## Step 3
 
+CMakeLists.txt
 ```
 cmake_minimum_required(VERSION 3.3)
 project(Tutorial)
@@ -96,7 +98,7 @@ target_include_directories(Tutorial PUBLIC
                            "${PROJECT_BINARY_DIR}" 
 			   )
 ```
-
+MathFunctions/CMakelists.txt
 ```
 add_library(MathFunctions mysqrt.cxx)
 
@@ -108,6 +110,8 @@ target_include_directories(MathFunctions
 ```
 
 ## Step 4 
+
+CMakeLists.txt
 
 ```
 cmake_minimum_required(VERSION 3.3)
@@ -178,6 +182,7 @@ install(FILES "${PROJECT_BINARY_DIR}/TutorialConfig.h"
   do_test(Tutorial 0.0001 "0.0001 is 0.01")
 
 ```
+MathFunctions/CMakeLists.txt
 
 ```
 add_library(MathFunctions mysqrt.cxx)
@@ -195,6 +200,8 @@ install (FILES MathFunctions.h DESTINATION include)
 ```
 
 ## Step 5
+
+CMakeLists.txt
 
 ```
 cmake_minimum_required(VERSION 3.3)
@@ -274,7 +281,7 @@ do_test(Tutorial 0.0001 "0.0001 is 0.01")
   check_symbol_exists(log "math.h" HAVE_LOG)
   check_symbol_exists(exp "math.h" HAVE_EXP)
 ```
-
+MathFunctions/CMakeLists.txt
 ```
 add_library(MathFunctions mysqrt.cxx)
 
