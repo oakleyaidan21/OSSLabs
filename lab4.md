@@ -16,6 +16,10 @@ I'm assuming its claim is the first sentence of the section, and I'd say I agree
 
 ## 6. Justification
 
+According to its wikipedia page, Sailfish Alliance "aims to 'unite OEM and ODM manufacturers, chipset providers, operators, application developers and retailers.'" Given this statement, along with the format of how Sailfish Alliance decides its development priorities, I believe that Sailfish is closed source because they have already gathered the developers and buisnesses they need--they don't need to be open source. Looking at the list of participants, Sailfish is pretty stacked in terms of people working on it, so being open source wouldn't bring in any developer talent they probably already have. 
+
+(source: https://en.wikipedia.org/wiki/Sailfish_OS)
+
 ## 7. Project and buisness model
 Link: https://github.com/barnesv17/Lab04-Licensing
 
