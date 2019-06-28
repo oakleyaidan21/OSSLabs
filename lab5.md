@@ -1,7 +1,7 @@
 # Lab 5 
 
 ## Step 1 and 2
-
+![step1/2](https://raw.githubusercontent.com/oakleyaidan21/OSSLabs/master/labScreenShots/lab5/step2.PNG)
 tutorial.cxx:
 ```C++
 // A simple program that computes the square root of a number
@@ -58,7 +58,7 @@ target_include_directories(Tutorial PUBLIC
 ```
 
 ## Step 3
-
+![step1/2](https://raw.githubusercontent.com/oakleyaidan21/OSSLabs/master/labScreenShots/lab5/step3.PNG)
 CMakeLists.txt
 ```
 cmake_minimum_required(VERSION 3.3)
@@ -110,7 +110,7 @@ target_include_directories(MathFunctions
 ```
 
 ## Step 4 
-
+![step1/2](https://raw.githubusercontent.com/oakleyaidan21/OSSLabs/master/labScreenShots/lab5/step4.PNG)
 CMakeLists.txt
 
 ```
@@ -200,7 +200,7 @@ install (FILES MathFunctions.h DESTINATION include)
 ```
 
 ## Step 5
-
+![step1/2](https://raw.githubusercontent.com/oakleyaidan21/OSSLabs/master/labScreenShots/lab5/step5.PNG)
 CMakeLists.txt
 
 ```
