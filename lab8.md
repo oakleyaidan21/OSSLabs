@@ -4,12 +4,12 @@
 
 ### Lesson 1
 
-![alt_text](githublink)
+![lab8a](https://github.com/oakleyaidan21/OSSLabs/blob/master/labScreenShots/lab8/lab8a.PNG?raw=true)
 
 
 ### Lesson 2 
 
-![alt_text](githublink)
+![lab8b](https://github.com/oakleyaidan21/OSSLabs/blob/master/labScreenShots/lab8/lab8b.PNG?raw=true)
 
 
 ## Part 2 
