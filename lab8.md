@@ -11,6 +11,8 @@
 
 ![lab8b](https://github.com/oakleyaidan21/OSSLabs/blob/master/labScreenShots/lab8/lab8b.PNG?raw=true)
 
+Originally, my lm line was `lm(startPr ~ wheels + cond, data = mario_kart)` and I couldn't figure out what was wrong. Eventually I asked for the answer to see that `startPr` should've been `totalPr`, so that's why I have +0XP
+
 
 ## Part 2 
 
